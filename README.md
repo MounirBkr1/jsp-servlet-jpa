@@ -1,1 +1,1 @@
-# jsp-servlet-jpa
+# jsp-servlet-jpa-statement
